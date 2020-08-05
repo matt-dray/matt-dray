@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/business_hex.png" width=200>
-<br>
-Latest blog posts 
-<br>
+
+### Latest blog posts 
+
 <!-- BLOG-POST-LIST:START -->
 - [Blogging with R on Raspberry Pi](https://www.rostrum.blog/2020/07/11/raspberry/)
 - [Take a {ghdump} to download GitHub repos](https://www.rostrum.blog/2020/06/14/ghdump/)
