@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -14,4 +14,3 @@ jobs:
         with:
           feed_list: "https://www.rostrum.blog/index.xml"
           max_post_count: "5"
-          commit_message: "Updated readme with the latest rostrum.blog posts"
