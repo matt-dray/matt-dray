@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matt-dray/blog-post-workflow@master
+        with:
+          feed_list: "https://www.rostrum.blog/index.xml"
+          max_post_count: "5"
+          commit_message: "Updated readme with the latest rostrum.blog posts"
