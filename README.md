@@ -3,9 +3,9 @@
 ### Latest blog posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [A Twitter bot with {rtweet} and GitHub Actions](https://www.rostrum.blog/2020/09/20/londonmapbot/)
 - [Friendship ended with Google Analytics](https://www.rostrum.blog/2020/09/16/goatcounter-blogdown/)
 - [Rate my RStudio setup](https://www.rostrum.blog/2020/09/15/rstudio-settings/)
 - [{units} of uncleaned herring](https://www.rostrum.blog/2020/09/12/herring-units/)
 - [Quick GitHub Actions for your R package](https://www.rostrum.blog/2020/08/09/ghactions-pkgs/)
-- [Blogging with R on Raspberry Pi](https://www.rostrum.blog/2020/07/11/raspberry/)
 <!-- BLOG-POST-LIST:END -->
