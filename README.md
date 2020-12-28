@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/business_hex.png" width=200>
 
-### Latest blog posts 
+Mostly I dabble with R and blog about it. Latest posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Sending {postcards} with Netlify and Namecheap](https://www.rostrum.blog/2020/12/08/postcard/)
