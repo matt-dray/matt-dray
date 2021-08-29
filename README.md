@@ -4,7 +4,7 @@ Mostly I dabble with R and blog about it. See [a list of projects](https://githu
 
 <!-- BLOG-POST-LIST:START -->
 - [Adding a Shiny app to {dehex}](https://www.rostrum.blog/2021/08/27/dehex-app/)
-- [Nearly (?) all the R package startup messages](https://www.rostrum.blog/2021/08/27/zzz/)
+- [Exploring R package startup messages](https://www.rostrum.blog/2021/08/27/zzz/)
 - [Read a hex colour code with {dehex}](https://www.rostrum.blog/2021/08/10/dehex/)
 - [OG emoji SVGs](https://www.rostrum.blog/2021/07/31/og-emoji-svg/)
 - [Make an art gallery with {bs4cards}](https://www.rostrum.blog/2021/07/25/faxcrayon/)
