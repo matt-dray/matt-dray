@@ -7,9 +7,9 @@ You can visit [my personal website](https://www.matt-dray.com/), including [a li
 The latest posts on my blog, [rostrum.blog](https://www.rostrum.blog/), are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn the {tide} on R&#39;s secret spreadsheet editor](https://www.rostrum.blog/2022/04/27/tide/)
 - [Building a {r.oguelike} in R](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)
 - [Interactive maps of Hastings Half Marathon](https://www.rostrum.blog/2022/03/31/hastings-half/)
 - [Reproducible {distill} posts with {renv} profiles](https://www.rostrum.blog/2022/03/15/renv-profiles/)
 - [Add in an RStudio Addin to add in backticks](https://www.rostrum.blog/2022/02/19/backtick/)
-- [londonmapbot at LondonR](https://www.rostrum.blog/2022/02/12/mapbotr-londonr/)
 <!-- BLOG-POST-LIST:END -->
