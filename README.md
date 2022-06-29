@@ -7,9 +7,9 @@ You can visit [my personal website](https://www.matt-dray.com/), including [a li
 The latest posts on my blog, [rostrum.blog](https://www.rostrum.blog/), are:
 
 <!-- BLOG-POST-LIST:START -->
+- [An isometric dungeon chase in R](https://www.rostrum.blog/2022/06/28/isometric-dungeon/)
 - [Automated pathfinding in {r.oguelike}](https://www.rostrum.blog/2022/06/10/basic-search/)
 - [Down with R&#39;s assignment flamewars!](https://www.rostrum.blog/2022/06/07/assign-down/)
 - [Try R v4.2 in your browser](https://www.rostrum.blog/2022/06/01/try-r/)
 - [Simple procedural dungeons in R](https://www.rostrum.blog/2022/05/01/dungeon/)
-- [Turn the {tide} on R&#39;s secret spreadsheet editor](https://www.rostrum.blog/2022/04/27/tide/)
 <!-- BLOG-POST-LIST:END -->
