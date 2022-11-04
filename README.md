@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/business_hex.png" width=200>
 
-I dabble with R and write blog posts that are sometimes useful, often in jest.
+I dabble with R and write blog posts that are sometimes useful, sometimes worth a lol.
 
-You can visit [my personal website](https://www.matt-dray.com/), including [a list of projects](https://matt-dray.github.io/projects/), or get in touch via [Twitter](https://twitter.com/mattdray).
+You can visit [my personal website](https://www.matt-dray.com/), including [a list of projects](https://matt-dray.github.io/projects/), or get in touch via [Twitter](https://twitter.com/mattdray) or <a rel="me" href="https://fosstodon.org/@mattdray">Mastodon</a>.
 
 The latest posts on my blog, [rostrum.blog](https://www.rostrum.blog/), are:
 
