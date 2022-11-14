@@ -7,9 +7,9 @@ You can visit [my personal website](https://www.matt-dray.com/), including [a li
 The latest posts on my blog, [rostrum.blog](https://www.rostrum.blog/), are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tamagotchi in R?](https://www.rostrum.blog/2022/11/13/tamrgo/)
 - [Interactive pixel art in R with {pixeltrix}](https://www.rostrum.blog/2022/09/24/pixeltrix/)
 - [You are a halfling, trying to harvest {potato}](https://www.rostrum.blog/2022/09/13/potato/)
 - [EARL 22: {a11ytables} for better spreadsheets](https://www.rostrum.blog/2022/09/07/earl22/)
 - [Two RStudio Addins: {quartostamp} and {snorkel}](https://www.rostrum.blog/2022/08/11/quartostamp-snorkel/)
-- [Fixing londonmapbot for {rtweet} v1.0](https://www.rostrum.blog/2022/07/22/mapbot-rtweet-v1/)
 <!-- BLOG-POST-LIST:END -->
