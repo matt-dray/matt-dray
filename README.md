@@ -7,9 +7,9 @@ You can visit [my personal website](https://www.matt-dray.com/), including [a li
 The latest posts on my blog, [rostrum.blog](https://www.rostrum.blog/), are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Stiliyan Petrov: Jesus?](https://www.rostrum.blog/2023/01/08/petrov/)
 - [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
 - [Ding! Sound effects in {r.oguelike}](https://www.rostrum.blog/2023/01/04/rogue-sfx/)
 - [Animate sprites in R with {pixeltrix}](https://www.rostrum.blog/2022/12/11/pixeltrix-animate/)
 - [Tamagotchi in R?](https://www.rostrum.blog/2022/11/13/tamrgo/)
-- [Interactive pixel art in R with {pixeltrix}](https://www.rostrum.blog/2022/09/24/pixeltrix/)
 <!-- BLOG-POST-LIST:END -->
