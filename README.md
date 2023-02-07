@@ -4,7 +4,7 @@
 
 👨‍💻 You can visit [my personal website](https://www.matt-dray.com/), which includes [a list of projects](https://matt-dray.github.io/projects/).
 
-🎺 Toot or parp at me: [@mattdray@fosstodon.org](https://fosstodon.org/@matt-dray).
+🎺 Toot or parp at me: [@mattdray@fosstodon.org](https://fosstodon.org/@mattdray).
 
 📝 My latest japes and realised showerthoughts on [rostrum.blog](https://www.rostrum.blog/) are:
 
