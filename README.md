@@ -9,11 +9,11 @@
 📝 My latest japes and realised showerthoughts on [rostrum.blog](https://www.rostrum.blog/) are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Repaying Tom Nook with {S7}](https://www.rostrum.blog/2023/02/26/nook-s7/)
 - [London from space via botsin.space](https://www.rostrum.blog/2023/02/09/londonmapbotstodon/)
 - [Wrapping PokéAPI with {trapinch}](https://www.rostrum.blog/2023/02/02/trapinch/)
 - [Stiliyan Petrov: Jesus?](https://www.rostrum.blog/2023/01/08/petrov/)
 - [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
-- [Ding! Sound effects in {r.oguelike}](https://www.rostrum.blog/2023/01/04/rogue-sfx/)
 <!-- BLOG-POST-LIST:END -->
 
 🧠 Disclaimer: the thought technologies presented here have erupted from my own brain; my employer takes no credit.
