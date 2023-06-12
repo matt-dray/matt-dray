@@ -9,11 +9,11 @@
 📝 My latest japes and realised showerthoughts on [rostrum.blog](https://www.rostrum.blog/) are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Extract run data from Apple Health &lpar;redux&rpar;](https://www.rostrum.blog/2023/06/11/apple-health-redux/)
 - [Rectangularise Word tables extracted by {officer}](https://www.rostrum.blog/2023/06/07/rectangular-officer/)
 - [Recreating a dataviz with {ggplot2}](https://www.rostrum.blog/2023/05/10/spear-ggplot2/)
 - [Automate {blogdown} to Quarto](https://www.rostrum.blog/2023/05/07/bd2q/)
 - [Matt Dray Teaches &lpar;Data&rpar; Typing](https://www.rostrum.blog/2023/04/23/type-convert/)
-- [R is a game engine, fight me](https://www.rostrum.blog/2023/04/02/splendid-r-games/)
 <!-- BLOG-POST-LIST:END -->
 
 🧠 Disclaimer: the thought technologies presented here have erupted from my own brain; my employer takes no credit.
