@@ -9,11 +9,11 @@
 📝 My latest japes and realised showerthoughts on [rostrum.blog](https://www.rostrum.blog/) are:
 
 <!-- BLOG-POST-LIST:START -->
+- [Click links to execute code in the R console!](https://www.rostrum.blog/posts/2023-09-17-choosethis/index.html)
 - [Dear John, I’m sorry](https://www.rostrum.blog/posts/2023-09-16-chunktop/index.html)
 - [The life and death of the tidyverse](https://www.rostrum.blog/posts/2023-09-10-lifecycle/index.html)
 - [Combing through my trash](https://www.rostrum.blog/posts/2023-09-08-trash-combing/index.html)
 - [Autodetect Quarto formats with {quartostamp}. Or not.](https://www.rostrum.blog/posts/2023-09-01-quarto-yaml-detect/index.html)
-- [Conscious uncoupling with {blogdown}](https://www.rostrum.blog/posts/2023-08-26-cheerio-blogdown/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 🧠 Disclaimer: the thought technologies presented here have erupted from my own brain; my employer takes no credit.
