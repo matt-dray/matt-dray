@@ -1,12 +1,8 @@
-🙇‍♂️ Ahoy.
+LARPing as a data scientist in the public sector.
 
-🏇 I mostly horse around with [R](https://www.r-project.org/), which is (apparently) a very serious statistical programming language.
+Visit my [personal site](https://www.matt-dray.com/), [GitHub repos](https://github.com/matt-dray?tab=repositories) or [Mastodon profile](https://fosstodon.org/@mattdray).
 
-👨‍💻 You can visit [my personal website](https://www.matt-dray.com/), which includes [a list of projects](https://matt-dray.github.io/projects/).
-
-🎺 Toot or parp at me: [@mattdray@fosstodon.org](https://fosstodon.org/@mattdray).
-
-📝 My latest japes and realised showerthoughts on [rostrum.blog](https://www.rostrum.blog/) are:
+The latest realised showerthoughts on [my blog](https://www.rostrum.blog/) are:
 
 <!-- BLOG-POST-LIST:START -->
 - [No tears over missed eyedrops](https://www.rostrum.blog/posts/2023-12-03-eyedrop/index.html)
@@ -16,4 +12,4 @@
 - [Govspeakify tables with {shinylive}](https://www.rostrum.blog/posts/2023-10-08-govspeakify-tables/index.html)
 <!-- BLOG-POST-LIST:END -->
 
-🧠 Disclaimer: the thought technologies presented here have erupted from my own brain; my employer takes no credit.
+The thought technologies presented here have erupted from my own brain.
