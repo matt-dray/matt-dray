@@ -1,8 +1,6 @@
 LARPing as a data scientist in the public sector.
 
-Visit my [personal site](https://www.matt-dray.com/), [GitHub repos](https://github.com/matt-dray?tab=repositories) or [Mastodon profile](https://fosstodon.org/@mattdray).
-
-The latest realised showerthoughts on [my blog](https://www.rostrum.blog/) are:
+Visit my [personal site](https://www.matt-dray.com/) or read the latest realised showerthoughts on [my blog](https://www.rostrum.blog/):
 
 <!-- BLOG-POST-LIST:START -->
 - [Dependency-free hex stickers with {hexbase}](https://www.rostrum.blog/posts/2025-01-31-hexbase/index.html)
